@@ -1,4 +1,4 @@
-# my_cdproject
+# Type Checker
 
 A static type checker for a simplified C-like programming language.
 
